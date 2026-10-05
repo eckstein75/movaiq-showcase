@@ -22,6 +22,30 @@ O MOVAIQ reúne esses fluxos em uma aplicação web com backend e frontend separ
 
 ---
 
+## 🖼️ Interface do produto
+
+### Dashboard operacional
+
+Visão geral da operação com indicadores de fretes, veículos, motoristas, faturamento, status dos fretes e resultado financeiro.
+
+![Dashboard do MOVAIQ](assets/dashboard.png)
+
+### Detalhes do frete
+
+Tela de acompanhamento completo do frete, reunindo origem, destino, carga, cliente, motorista, veículo, valor, prazos, ações operacionais e histórico de status.
+
+![Detalhes do frete no MOVAIQ](assets/detalhes-frete.png)
+
+### Rastreamento em dispositivo móvel
+
+Interface responsiva para acompanhamento da última localização, velocidade e histórico de posições do frete em dispositivos móveis.
+
+<p align="center">
+  <img src="assets/rastreamento-mobile.png" alt="Rastreamento mobile do MOVAIQ" width="360">
+</p>
+
+---
+
 ## 🧱 Arquitetura
 
 ```mermaid
